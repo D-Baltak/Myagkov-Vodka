@@ -12,3 +12,18 @@ Myagkov-Vodka
 Стэк: javascript, jquery, jqueryUI, html, css
 
 http://myagkovvodka.com/
+
+=======================================================================
+
+Myagkov-Vodka
+Vodka trademark "Myagkov"
+
+Trademark of "Синергия" company, vodka of this brand is one of the most popular product in CIS(post-USSR) countries.
+
+This website is nominated on "Best website" award by version of awwwards.com
+
+During this project were made: parallax effects, various sliders, animations, tabs, website navigation via hash, preloading of images.
+
+Stack: javascript, jquery, jqueryUI, html, css
+
+http://myagkovvodka.com/
